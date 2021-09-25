@@ -1,2 +1,2 @@
 # TCP-Socket
-go to java_lul -> serverClient
+go to java_lul -> src-> serverClient
